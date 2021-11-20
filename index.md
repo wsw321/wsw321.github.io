@@ -11,6 +11,7 @@
     
     <td width="25%">
       <img src="/wsw.jpg" width="100%">
+      <p><b>那0.1去哪了?</b></p>
     </td>
     
   </tr>
