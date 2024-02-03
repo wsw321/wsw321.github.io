@@ -11,7 +11,7 @@
     
     <td width="25%">
       <img src="/gege.png" width="100%">
-      <p><b>Power!</b></p>
+      <p><b>Power !</b></p>
     </td>
     
   </tr>
