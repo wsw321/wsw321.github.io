@@ -10,7 +10,7 @@
     </td>
     
     <td width="25%">
-      <img src="/wsw.jpg" width="100%">
+      <img src="/gege.jpg" width="100%">
       <p><b>Power!</b></p>
     </td>
     
